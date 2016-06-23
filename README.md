@@ -1,2 +1,2 @@
-# Bitwords
+# Superwords
 Written once, understood everywhere.
